@@ -1,0 +1,19 @@
+1. URL: https://dalatholic.000webhostapp.com/
+
+2. Về việc hoàn thành các mục chỉ tiêu của dự án:
+- Yêu cầu bắt buộc:
+	+ Hoàn thành 5 trang HTML
+	+ Hiển thị reponsive 5 trang HTML trên các thiết bị và trình duyệt
+	+ Sử dụng liên kết trang relative file path
+	+ Áp dụng các kỹ thuật SEO nội dung: keyword, metatags, description, title, anchor (kèm file .doc chi tiết)
+	+ Submit trang web lên google để indexing. Tích hợp Google Analytics
+- Yêu cầu nâng cao:
+	+ Xây dựng trang web đảm bảo UI/UX
+	+ Sử dụng google font
+	+ Tích hợp các thử viện: Swiper, bootstrap
+
+P/s: Qua dự án, em đã tự nghiên cứu và học thêm được nhiều kiến thức, kỹ năng mới:
++ Sử dụng animation tạo hiệu ứng
++ Sử dụng javascript để thay đổi navbar, quản lý file audio cho background.
+Hy vọng Mentor sẽ thích website và góp ý giúp em ạ.
+Em cám ơn!
